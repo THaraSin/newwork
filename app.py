@@ -14,5 +14,5 @@ def git_update():
 
 @app.route('/')
 def hello_world():
-    return 'Hello worl!'
+    return 'Hello wor!'
     
