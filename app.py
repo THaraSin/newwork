@@ -13,5 +13,5 @@ def git_update():
 
 @app.route('/')
 def table():
-    return render_template("table.html")
+    return Hello world
     
